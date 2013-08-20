@@ -1,0 +1,9 @@
+.cache
+.classpath
+target
+project
+*.jar*
+build.sh
+classes
+bin
+.project
