@@ -1,9 +1,8 @@
 .cache
 .classpath
 target
-project
+.project
 *.jar*
 build.sh
 classes
 bin
-.project
